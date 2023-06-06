@@ -36,7 +36,7 @@ class SudokuSolver {
             }
         }
         
-        // No valid solution found
+        // No valid solution found 
         return false;
     }
 
