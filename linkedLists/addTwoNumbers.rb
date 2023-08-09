@@ -29,3 +29,15 @@ def add_two_numbers(l1, l2)
     end
     return original_list
 end
+
+def reverse(string)
+    string.reverse!
+    
+end
+
+str = 'Madam, I’m Adam'
+puts str
+reverse(str)
+puts str
+
+# built
